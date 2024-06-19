@@ -32,16 +32,11 @@ Digital displays in banks effectively showcased real-time currency exchange rate
 
 
 1.7 Traffic Signaling
-Arduino-controlled traffic signals optimized traffic flow and reduced congestion on urban roads. Adaptive signaling algorithms dynamically adjusted signal timings based on traffic density and flow patterns, minimizing wait times at intersections. Evaluation of traffic flow data revealed significant improvements in traffic efficiency and travel times, enhancing overall transportation network performance and user satisfaction.
 
 
 
 
 1.8 Intelligent Street Lighting
-Intelligent street lighting systems adjusted brightness levels based on ambient light conditions, optimizing energy consumption and ensuring adequate illumination for pedestrians and motorists. Light sensors and timers enabled automatic dimming and brightening of streetlights, reducing energy waste during periods of low activity. Analysis of energy consumption data demonstrated substantial energy savings and reduced light pollution, promoting sustainability and environmental stewardship.
-
-
-
 
 
 
